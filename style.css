@@ -11,3 +11,7 @@ p {
     text-align: center;
     font-family: Verdana, sans-serif;
 }
+
+a {
+    font-size: 24px;
+}
