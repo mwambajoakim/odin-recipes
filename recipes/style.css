@@ -4,7 +4,7 @@
 
 img {
     height: auto;
-    width: 400px;
+    width: 200px;
     display: inline;
 }
 
@@ -12,6 +12,7 @@ h1 {
     text-align: center;
 }
 
-.desc {
-    display: inline;
+
+.image-desc{
+    margin: 10px;
 }
