@@ -16,8 +16,10 @@ a {
     font-size: 24px;
 }
 
-.first, .second, .third{
+.recipes{
+    display: block;
     margin: 1em 2em;
     padding: 10px;
     border: dotted black 2px;
 }
+
