@@ -15,3 +15,9 @@ p {
 a {
     font-size: 24px;
 }
+
+.first, .second, .third{
+    margin: 1em 2em;
+    padding: 10px;
+    border: dotted black 2px;
+}
