@@ -5,4 +5,13 @@
 img {
     height: auto;
     width: 400px;
+    display: inline;
+}
+
+h1 {
+    text-align: center;
+}
+
+.desc {
+    display: inline;
 }
