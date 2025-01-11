@@ -41,6 +41,11 @@ a {
     gap: 20px;
 }
 
+a {
+    color: #fffdd0;
+    font-size: 20px;
+}
+
 img {
     width: 200px;
     height: auto;
