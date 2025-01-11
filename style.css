@@ -22,9 +22,6 @@ p {
     font-family: Verdana, sans-serif;
 }
 
-a {
-    font-size: 24px;
-}
 
 .recipes{
     margin: 12px auto;
@@ -41,9 +38,16 @@ a {
     gap: 20px;
 }
 
+button {
+    background-color: #800020;
+    border-radius: 7px;
+    padding: 4px;
+}
+
 a {
     color: #fffdd0;
     font-size: 20px;
+    text-decoration: none;
 }
 
 img {
