@@ -5,7 +5,8 @@ body {
 
 .header {
     background-color: #800020;
-    color: antiquewhite;
+    color: goldenrod;
+    font-weight: 700;
     font-family: 'Courier New', Courier, monospace;
     border-radius: 5px;
     padding: 20px;
@@ -42,6 +43,7 @@ button {
     background-color: #800020;
     border-radius: 7px;
     padding: 4px;
+    
 }
 
 a {
@@ -61,5 +63,6 @@ footer {
     background-color: #800020;
     border-radius: 5px;
     padding: 20px;
-    color: antiquewhite;
+    color: goldenrod;
+    font-weight: 800;
 }
