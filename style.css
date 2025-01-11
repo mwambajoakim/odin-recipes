@@ -11,10 +11,11 @@ body {
     padding: 20px;
 }
 
-h1 {
+.head {
     font-weight: 800px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
+    text-decoration: underline;
 }
 p {
     text-align: center;
@@ -31,21 +32,13 @@ a {
     justify-content: space-around;
     flex-flow: row;
     background-color: goldenrod;
-    margin: 0;
+    margin: 10px 0 10px;
     border-radius: 5px;
     padding: 20px;
 }
 
-.first{
-    margin: 10px;
-}
-
-.second{
-    margin: 10px;
-}
-
-.third{
-    margin: 10px;
+.link {
+    gap: 20px;
 }
 
 img {
