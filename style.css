@@ -1,11 +1,15 @@
 body {
-    
+    font-family: 'Courier New', Courier, monospace;
+
 }
 
-/*.header {
-    margin-bottom: 2px solid #fff;
-    outline-color: 2px solid black;
-}*/
+.header {
+    background-color: #800020;
+    color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 5px;
+    padding: 20px;
+}
 
 h1 {
     font-weight: 800px;
@@ -26,6 +30,10 @@ a {
     display: flex;
     align-items: center;
     flex-flow: column;
+    background-color: goldenrod;
+    margin: 0;
+    border-radius: 5px;
+    padding: 20px;
 }
 
 .first{
@@ -49,4 +57,13 @@ a {
 img {
     width: 200px;
     height: auto;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: #800020;
+    border-radius: 5px;
+    padding: 20px;
+    color: antiquewhite;
 }
