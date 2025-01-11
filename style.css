@@ -28,8 +28,8 @@ a {
 .recipes{
     margin: 12px auto;
     display: flex;
-    align-items: center;
-    flex-flow: column;
+    justify-content: space-around;
+    flex-flow: row;
     background-color: goldenrod;
     margin: 0;
     border-radius: 5px;
@@ -46,12 +46,6 @@ a {
 
 .third{
     margin: 10px;
-}
-
-.recipes{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
 }
 
 img {
