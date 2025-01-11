@@ -1,6 +1,11 @@
 body {
-    background-color:burlywood;
+    
 }
+
+/*.header {
+    margin-bottom: 2px solid #fff;
+    outline-color: 2px solid black;
+}*/
 
 h1 {
     font-weight: 800px;
@@ -33,4 +38,15 @@ a {
 
 .third{
     margin: 10px;
+}
+
+.recipes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+img {
+    width: 200px;
+    height: auto;
 }
