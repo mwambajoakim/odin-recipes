@@ -43,7 +43,7 @@ button {
     background-color: #800020;
     border-radius: 7px;
     padding: 4px;
-    
+    display: flex;    
 }
 
 a {
