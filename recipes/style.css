@@ -4,8 +4,9 @@ img {
     display: inline;
 }
 
-h1 {
+.head {
     text-align: center;
+    text-decoration: underline;
 }
 
 .image-desc{
