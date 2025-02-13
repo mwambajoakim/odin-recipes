@@ -21,15 +21,13 @@ body {
 .head {
     font-weight: 800px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    text-align: center;
     text-decoration: underline;
 }
 
-/*p {
-    text-align: center;
+p {
     font-family: Verdana, sans-serif;
     width: 50%;
-}*/
+}
 
 .recipes{
     margin: 12px auto;
