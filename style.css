@@ -9,7 +9,7 @@ body {
     font-weight: 800;
     font-family: 'Courier New', Courier, monospace;
     border-radius: 5px;
-    padding: 20px;
+    padding: 4rem;
     width: 100%;
     margin: 0 auto;
 }
@@ -55,7 +55,7 @@ a {
 }
 
 img {
-    width: 50%;
+    width: 80%;
 }
 
 footer {
@@ -67,4 +67,5 @@ footer {
     color: goldenrod;
     font-weight: 800;
     width: 100%;
+    margin: auto 0;
 }
