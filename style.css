@@ -10,6 +10,12 @@ body {
     font-family: 'Courier New', Courier, monospace;
     border-radius: 5px;
     padding: 20px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.container {
+    margin: 0 auto;
 }
 
 .head {
@@ -19,9 +25,10 @@ body {
     text-decoration: underline;
 }
 
-p {
+/*p {
     text-align: center;
     font-family: Verdana, sans-serif;
+    width: 50%;*/
 }
 
 .recipes{
@@ -33,6 +40,7 @@ p {
     margin: 10px 0 10px;
     border-radius: 5px;
     padding: 20px;
+    width: 100%;
 }
 
 .link {
